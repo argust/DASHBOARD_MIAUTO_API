@@ -1,0 +1,11 @@
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\bin\Debug\netcoreapp2.0\ADMIN.deps.json
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\bin\Debug\netcoreapp2.0\ADMIN.runtimeconfig.json
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\bin\Debug\netcoreapp2.0\ADMIN.runtimeconfig.dev.json
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\bin\Debug\netcoreapp2.0\ADMIN.dll
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\bin\Debug\netcoreapp2.0\ADMIN.pdb
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\obj\Debug\netcoreapp2.0\ADMIN.csproj.CoreCompileInputs.cache
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\obj\Debug\netcoreapp2.0\ADMIN.AssemblyInfoInputs.cache
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\obj\Debug\netcoreapp2.0\ADMIN.AssemblyInfo.cs
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\obj\Debug\netcoreapp2.0\ADMIN.dll
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\obj\Debug\netcoreapp2.0\ADMIN.pdb
+C:\Users\SAEL\Desktop\proyectos angular\ADMINPRO-API\ADMIN\obj\Debug\netcoreapp2.0\ADMIN.csprojResolveAssemblyReference.cache
